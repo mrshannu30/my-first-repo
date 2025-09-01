@@ -1,0 +1,6 @@
+My name is SIMHADRI SHANMUKHA
+I'm pursuing 3rd year BCA in Kakinada Sri Aditya Degree College
+I had learned for github. 
+    1.That is how to login/signup to github
+    2.how to create reposotry
+    3.how to upload file from my computer
